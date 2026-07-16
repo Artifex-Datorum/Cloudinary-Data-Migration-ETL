@@ -919,32 +919,7 @@ In dynamic folder mode, the folder shown in Cloudinary and the public-ID deliver
 
 Compare the source count, staging count, CLI output, Cloudinary destination, and Python manifest. Check unsupported formats, permissions, size restrictions, and failed requests.
 
-<h1 align="center">Exercise 25: Final checklist</h1>
-
-| Requirement | Completed? |
-| --- | --- |
-| The source directory has been obtained and confirmed. | ☐ |
-| Eligible file types have been defined. | ☐ |
-| The source file count has been recorded. | ☐ |
-| A virtual environment has been created. | ☐ |
-| The Cloudinary CLI or Python SDK has been installed. | ☐ |
-| A dedicated migration API key has been created. | ☐ |
-| `cld config` shows the correct cloud name. | ☐ |
-| A one-file test upload has succeeded. | ☐ |
-| A filtered staging directory has been prepared. | ☐ |
-| The source and staging counts match. | ☐ |
-| The complete directory has been uploaded. | ☐ |
-| The Cloudinary folder hierarchy has been inspected. | ☐ |
-| Sample assets have been opened successfully. | ☐ |
-| Failed uploads have been reviewed or reprocessed. | ☐ |
-| The migration manifest has been retained where required. | ☐ |
-| The test asset and test folder have been removed. | ☐ |
-| `CLOUDINARY_URL` has been removed. | ☐ |
-| The migration API key has been disabled. | ☐ |
-| Temporary staging data has been removed. | ☐ |
-| Exposed credentials, if any, have been rotated. | ☐ |
-
-<h1 align="center">Exercise 26: Overall resolution</h1>
+<h1 align="center">Exercise 25: Overall resolution</h1>
 
 The migration is complete when:
 
